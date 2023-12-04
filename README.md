@@ -1,2 +1,2 @@
 # MyAwesomeRPG
- MyAwesomeRPG
+ My Awesome RPG
